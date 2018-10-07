@@ -1,0 +1,4 @@
+ProductName=Cheetos,Tostitos,Pringles,Funyuns,Doritos,Sun Chips,Ruffles,Fritos,Big Red,DoubleMint,Trident,Juicy Fruit,M&Ms,Hersheys,Kit-Kat,Junior Mints,Twix,Snickers
+ProductPrice=1.50,1.50,1.50,1.50,1.50,1.50,1.50,1.50,0.50,0.50,0.50,0.50,1.00,1.00,1.00,1.00,1.00,1.00
+ProductQuant=10,10,10,10,10,10,10,10,20,20,20,20,15,15,15,15,15,15
+ProductType=chip,chip,chip,chip,chip,chip,chip,chip,gum,gum,gum,gum,candy,candy,candy,candy,candy,candy
