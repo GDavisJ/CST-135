@@ -1,0 +1,5 @@
+ProductName,Gatorade,Powerade,Powerade Zero,Startbucks Double Shot,Oreos,Twix,Butterfinger,Reese's,Dentyne Ice,DubbleBubble,Orbit,Extra,Hot Cheetos,Ruffles,Pop Chips,Bugles
+ProductPrice,1.5,1.5,1.5,2.5,1,1,1,1,0.5,0.5,0.5,0.5,1.5,1.5,1.5,1.5
+ProductQuant,1,2,3,10,15,4,2,15,20,20,1,20,10,3,10,10
+ProductType,drink,drink,drink,drink,candy,candy,candy,candy,gum,gum,gum,gum,chips,chips,chips,chips
+ProductLocation,A1,A2,A3,A4,B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4

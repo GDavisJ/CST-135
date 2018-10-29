@@ -1,0 +1,5 @@
+ProductName,Dasani,Izze,Red Bull,Cherry Pepsi,Air Heads,Trolli,Hot Tamales,LifeSavers,5 Gum,Eclipse,Stride,Hubba Bubba,Pretzel Crisps,Vickie's Jalepeno,Snyder's of Hanover,Chex Mix
+ProductPrice,1.5,1.5,2.5,1.5,1,1,1,1,0.5,0.5,0.5,0.5,1.5,1.5,1.5,1.5
+ProductQuant,10,1,10,3,15,15,15,1,20,3,20,20,2,10,10,1
+ProductType,drink,drink,drink,drink,candy,candy,candy,candy,gum,gum,gum,gum,chips,chips,chips,chips
+ProductLocation,A1,A2,A3,A4,B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4
